@@ -39,8 +39,8 @@ npm run server
 
 
 
-> Environment Variables (Webpack)
--------------------------------
+## Environment Variables (Webpack)
+
 
 | Variable    | Default               | Required |
 |-------------|-----------------------|----------|
