@@ -2,8 +2,11 @@
 
 ### Technology Stack
 VueJS + ElementUI
+
 NodeJS (ExpressJS)
+
 LowDB (Offline Mini Mongo)
+
 Tested on Node v10.15.3 and NPM 6.9.0
 
 ### Main Setup
