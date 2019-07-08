@@ -37,13 +37,14 @@ npm run server
 # main route at localhost:3000
 ```
 
-```
 
-Environment Variables (Webpack)
+
+> Environment Variables (Webpack)
+-------------------------------
 
 | Variable    | Default               | Required |
 |-------------|-----------------------|----------|
 | NODE_ENV    | development           | -        |
 | SERVER_HOST | http://localhost:3000 | -        |
 
-```
+
