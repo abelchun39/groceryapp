@@ -19,7 +19,7 @@ LowDB (Offline Mini Mongo)
 npm install
 ```
 
-#### A Vue.js project
+#### Frontend (VueJS)
 
 ``` bash
 # serve with hot reload at localhost:8080
@@ -32,7 +32,7 @@ npm run build
 python -m SimpleHTTPServer 7777
 ```
 
-> A Node.js (express)
+#### Backend (Node ExpressJS)
 
 ``` bash
 # serve with hot reload at localhost:3000
