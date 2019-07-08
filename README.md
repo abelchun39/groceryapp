@@ -19,7 +19,7 @@ LowDB (Offline Mini Mongo)
 npm install
 ```
 
-> A Vue.js project
+#### A Vue.js project
 
 ``` bash
 # serve with hot reload at localhost:8080
